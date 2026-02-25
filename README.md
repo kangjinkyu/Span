@@ -240,6 +240,6 @@ Span is engineered for speed. Every interaction is designed to feel instant.
 
 ## License
 
-Copyright (c) 2025 LumiBear Studio. All rights reserved.
+Copyright (c) 2026 LumiBear Studio. All rights reserved.
 
 Span is proprietary software developed by LumiBear Studio. This repository hosts documentation only.
