@@ -1,16 +1,16 @@
-# Span — The File Explorer Windows Deserved
+# SPAN Finder — The File Explorer Windows Deserved
 
 **A blazing-fast Miller Columns file explorer for Windows, built for power users who refuse to compromise.**
 
-Span reimagines file navigation on Windows. Inspired by the elegance of macOS Finder's column view and supercharged with features Windows Explorer never had — multi-tab, split view, async operations, and keyboard-driven workflows that make file management feel effortless.
+SPAN Finder reimagines file navigation on Windows. Inspired by the elegance of macOS Finder's column view and supercharged with features Windows Explorer never had — multi-tab, split view, async operations, and keyboard-driven workflows that make file management feel effortless.
 
 > **Why settle for Windows Explorer when you can fly?**
 
 ---
 
-## Why Span?
+## Why SPAN Finder?
 
-| | Windows Explorer | Span |
+| | Windows Explorer | SPAN Finder |
 |---|---|---|
 | **Miller Columns** | No | Yes — hierarchical 3-pane navigation |
 | **Multi-Tab** | Windows 11 only (basic) | Full tabs with tear-off, duplication, session restore |
@@ -42,7 +42,7 @@ The signature feature. Navigate deep folder hierarchies without losing context. 
 
 Switch instantly between the view that fits your workflow:
 
-- **Miller Columns** (Ctrl+1) — Hierarchical navigation, Span's signature
+- **Miller Columns** (Ctrl+1) — Hierarchical navigation, SPAN Finder's signature
 - **Details** (Ctrl+2) — Sortable table with name, date, type, size columns
 - **List** (Ctrl+3) — Dense multi-column layout for scanning large directories
 - **Icons** (Ctrl+4) — Grid view with 4 size options up to 256x256 thumbnails
@@ -171,7 +171,7 @@ Optional, toggleable git status for developers:
 
 ### Remote Connections
 
-Connect to remote servers directly from Span:
+Connect to remote servers directly from SPAN Finder:
 
 - **FTP / FTPS / SFTP** with saved connection profiles
 - **SSH key authentication** support
@@ -180,13 +180,13 @@ Connect to remote servers directly from Span:
 ### Context Menu — Full Windows Shell Compatibility
 
 - 100% native Windows shell extension support — every context menu item works
-- Additional Span items: Open Terminal, Copy Path, Pin to Favorites, Compress/Extract
+- Additional SPAN Finder items: Open Terminal, Copy Path, Pin to Favorites, Compress/Extract
 - Toggleable sections: Shell extras, Copilot items, Developer menu
 - Full Korean and Japanese shell verb translation
 
 ### Drag & Drop
 
-- **Internal**: Drag between Span columns, tabs, and panes
+- **Internal**: Drag between SPAN Finder columns, tabs, and panes
 - **External**: Drag to/from Windows Explorer and Desktop
 - **Modifier keys**: Hold Ctrl to copy, Shift to move
 - **Favorites**: Drag folders to sidebar to pin them
@@ -209,7 +209,7 @@ Connect to remote servers directly from Span:
 
 ## Performance
 
-Span is engineered for speed. Every interaction is designed to feel instant.
+SPAN Finder is engineered for speed. Every interaction is designed to feel instant.
 
 - **Async I/O everywhere**: File listing, thumbnails, previews — nothing blocks the UI thread
 - **Cancellation tokens**: Navigate away and stale operations are cancelled immediately
@@ -242,4 +242,4 @@ Span is engineered for speed. Every interaction is designed to feel instant.
 
 Copyright (c) 2026 LumiBear Studio. All rights reserved.
 
-Span is proprietary software developed by LumiBear Studio. This repository hosts documentation only.
+SPAN Finder is proprietary software developed by LumiBear Studio. This repository hosts documentation only.
